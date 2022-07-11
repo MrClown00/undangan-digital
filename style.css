@@ -1,0 +1,196 @@
+/* #bg {
+  background: linear-gradient(rgba(0, 0, 0, 0.719), rgba(0, 0, 0, 0.767)), url("img/bg1.jpg");
+  display: flex;
+  color: rgb(255, 255, 255);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+} */
+
+/* #bg {
+  background-image: url("img/judul.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vh;
+  
+} */
+#bg {
+  position: relative;
+  height: 1000px;
+  width: 1000px;
+  margin: auto;
+}
+#bg span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  left: 0;
+  z-index: -10;
+}
+
+#judul {
+  padding-top: 29%;
+  padding-right: 5%;
+}
+
+#anggi,
+#zen {
+  font-family: "The Nautigal", cursive;
+  font-size: 8rem;
+  text-shadow: 3px 2px 5px #5a5a5a49;
+  color: rgb(59, 59, 59);
+}
+
+#zen {
+  margin-top: -35px;
+}
+
+#dan {
+  font-family: "The Nautigal", cursive;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+#two,
+#hari,
+#tgl {
+  font-family: "Arima", cursive;
+  font-size: 1.7rem;
+  text-shadow: 1px 1px 3px #4b4b4b49;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  margin-bottom: 0;
+  color: aliceblue;
+}
+
+#bis {
+  font-family: "Satisfy", cursive;
+  color: rgb(102, 64, 18);
+}
+
+#maha,
+#ass {
+  font-size: 20px;
+  color: rgb(102, 64, 18);
+}
+
+#ab {
+  font-family: "Oleo Script Swash Caps", cursive;
+  font-size: 5rem;
+  color: rgb(102, 64, 18);
+}
+#ab2 {
+  font-family: "Oleo Script Swash Caps", cursive;
+  font-size: 5rem;
+  color: rgb(102, 64, 18);
+}
+
+#putri,
+#putra {
+  font-size: 1.5rem;
+}
+
+#acara {
+  font-family: "Lalezar", cursive;
+  font-style: italic;
+  color: rgb(102, 64, 18);
+}
+
+#akad,
+#res {
+  font-family: "Lalezar", cursive;
+  margin: auto;
+}
+
+#akad {
+  font-size: 15px;
+}
+
+#smk {
+  width: 50%;
+  right: -24%;
+}
+
+#lokasi {
+  font-family: "Lalezar", cursive;
+  font-style: italic;
+  color: rgb(102, 64, 18);
+}
+
+#aula {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+}
+
+#was {
+  font-family: "Satisfy", cursive;
+  color: rgb(102, 64, 18);
+}
+#mer {
+  color: rgb(102, 64, 18);
+}
+
+#hormat,
+#bpk,
+#ibk {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: white;
+}
+
+.card-header {
+  background-color: rgb(63, 37, 4);
+  border-color: aliceblue;
+}
+
+.card-header h4 {
+  color: aliceblue;
+}
+
+#cb1,
+#cb2 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(63, 37, 4);
+  color: aliceblue;
+}
+
+#cb3 {
+  background-color: rgb(63, 37, 4);
+  color: aliceblue;
+}
+
+#rabu {
+  font-family: "Lalezar", cursive;
+  color: rgb(102, 64, 18);
+}
+
+#footer {
+  margin: 0;
+  width: 100%;
+}
+
+figure {
+  color: rgb(102, 64, 18);
+}
+
+section {
+  width: 1000px;
+  margin: auto;
+}
+
+body {
+  width: 1000px;
+  margin: auto;
+  background-color: #ffffff;
+  background-position: center;
+  background-repeat: repeat-y;
+
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1400' height='552' preserveAspectRatio='none' viewBox='0 0 1400 552'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1367%26quot%3b)' fill='none'%3e%3crect width='1400' height='552' x='0' y='0' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/rect%3e%3cpath d='M123.181%2c483.211C161.515%2c483.994%2c201.632%2c472.322%2c221.103%2c439.292C240.818%2c405.846%2c232.54%2c364.447%2c212.947%2c330.93C193.565%2c297.774%2c161.56%2c270.339%2c123.181%2c271.782C86.605%2c273.158%2c62.216%2c305.299%2c44.394%2c337.269C27.182%2c368.144%2c15.161%2c404.321%2c31.953%2c435.427C49.431%2c467.803%2c86.396%2c482.459%2c123.181%2c483.211' fill='rgba(167%2c 111%2c 0%2c 0.38)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M702.353%2c135.289C721.693%2c134.954%2c741.765%2c129.949%2c751.907%2c113.478C762.479%2c96.309%2c760.804%2c74.402%2c750.522%2c57.058C740.447%2c40.063%2c722.105%2c29.462%2c702.353%2c29.893C683.296%2c30.308%2c667.693%2c42.855%2c657.69%2c59.082C647.055%2c76.333%2c639.488%2c97.764%2c649.735%2c115.248C659.906%2c132.603%2c682.24%2c135.637%2c702.353%2c135.289' fill='rgba(167%2c 111%2c 0%2c 0.38)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M197.043%2c635.52C242.797%2c637.729%2c294.623%2c632.144%2c317.892%2c592.688C341.392%2c552.84%2c323.033%2c503.513%2c297.737%2c464.781C275.12%2c430.15%2c238.357%2c409.63%2c197.043%2c407.647C151.453%2c405.458%2c101.174%2c414.864%2c78.085%2c454.236C54.811%2c493.923%2c69.605%2c543.454%2c94.846%2c581.92C117.465%2c616.39%2c155.862%2c633.532%2c197.043%2c635.52' fill='rgba(167%2c 111%2c 0%2c 0.38)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1209.967%2c673.092C1268.745%2c675.288%2c1333.238%2c662.953%2c1362.916%2c612.17C1392.78%2c561.068%2c1373.394%2c497.791%2c1341.583%2c447.877C1312.43%2c402.132%2c1264.211%2c371.794%2c1209.967%2c372.177C1156.369%2c372.555%2c1108.629%2c403.468%2c1081.528%2c449.711C1054.1%2c496.513%2c1048.571%2c554.408%2c1075.611%2c601.436C1102.727%2c648.597%2c1155.604%2c671.061%2c1209.967%2c673.092' fill='rgba(167%2c 111%2c 0%2c 0.38)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1367'%3e%3crect width='1400' height='552' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
